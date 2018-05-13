@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApp/Tester/obj
+/WebApp/Tester/bin/Debug/netcoreapp2.0
+/WebApp/.vs
+/WebApp/TriangleLib/bin/Debug/netcoreapp2.0
+/WebApp/TriangleLib/obj
+/WebApp/WebApp/bin/Debug/netcoreapp2.0
+/WebApp/WebApp/obj/Debug/netcoreapp2.0
+/WebApp/WebApp/obj
+/WebApp/WebApp/Properties
+/WebApp/WebApp/appsettings.json
+/WebApp/WebApp/appsettings.Development.json
+/WebApp/WebApp/WebApp.csproj.user
